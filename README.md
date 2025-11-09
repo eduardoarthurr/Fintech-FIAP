@@ -138,9 +138,9 @@ Durante o desenvolvimento do **FINTECH**, foram adquiridos diversos aprendizados
 
 ### 🔹 Tela de Orçamentos
 
-![Tela de Orçamentos](./public/images/orcamentos.png)
+![Tela de Orçamentos](https://github.com/eduardoarthurr/Fintech-FIAP/blob/main/img/or%C3%A7amento.png)
 
-### 🔹 Dashboard Financeiro
+### 🔹 Usuario
 
 ![Dashboard](./public/images/dashboard.png)
 
