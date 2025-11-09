@@ -130,7 +130,7 @@ Durante o desenvolvimento do **FINTECH**, foram adquiridos diversos aprendizados
 ---
 ### 🔹 Tela de Login
 
-![Tela de Login](./public/images/login.png)
+![Tela de Login](https://github.com/eduardoarthurr/Fintech-FIAP/blob/main/img/login.png)
 
 ### 🔹 Tela de Categorias
 
