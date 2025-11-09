@@ -45,7 +45,7 @@ Além do aspecto técnico, o projeto reflete o aprendizado sobre **integração 
 
 * **Java (Spring Boot)**
 * **API REST** — integração entre front-end e back-end
-* **Banco de Dados Relacional** (MySQL / PostgreSQL)
+* **Banco de Dados Relacional** (Oracle)
 
 ### **Autenticação**
 
