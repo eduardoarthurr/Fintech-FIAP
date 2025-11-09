@@ -142,7 +142,7 @@ Durante o desenvolvimento do **FINTECH**, foram adquiridos diversos aprendizados
 
 ### 🔹 Usuario
 
-![Dashboard](./public/images/dashboard.png)
+![Dashboard](https://github.com/eduardoarthurr/Fintech-FIAP/blob/main/img/usuario.png)
 
 ---
 
