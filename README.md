@@ -1,4 +1,3 @@
-Perfeito 😄 aqui está o **README.md completo e profissional**, com as seções adicionais que deixam o projeto com um toque de portfólio real — incluindo **prints das telas** (onde você pode adicionar as imagens depois) e uma seção final de **aprendizados adquiridos**.
 
 ---
 
