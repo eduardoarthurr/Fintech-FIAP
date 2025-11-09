@@ -134,7 +134,7 @@ Durante o desenvolvimento do **FINTECH**, foram adquiridos diversos aprendizados
 
 ### 🔹 Tela de Categorias
 
-![Tela de Categorias](./public/images/categorias.png)
+![Tela de Categorias](https://github.com/eduardoarthurr/Fintech-FIAP/blob/main/img/categorias.png)
 
 ### 🔹 Tela de Orçamentos
 
