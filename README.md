@@ -64,29 +64,6 @@ Além do aspecto técnico, o projeto reflete o aprendizado sobre **integração 
 
 ---
 
-## 🧱 **Arquitetura do Sistema**
-
-O projeto segue uma estrutura modular, baseada no padrão **MVC adaptado para React/Next.js**:
-
-```
-src/
- ├─ app/
- │   ├─ auth/         # Gerenciamento de login e sessão
- │   ├─ categorias/   # Tela de categorias
- │   ├─ orcamentos/   # Tela de orçamentos
- │   └─ layout/       # Estrutura base da aplicação
- │
- ├─ shared/
- │   ├─ services/     # Serviços que conectam com a API (fetch/axios)
- │   ├─ components/   # Componentes reutilizáveis (Sidebar, Botões, Cards)
- │   └─ hooks/        # Hooks personalizados (Modelos de controle de estado)
- │
- ├─ styles/           # Estilos globais com Tailwind
- └─ utils/            # Funções auxiliares e helpers
-```
-
----
-
 ## 🚧 **Desafios Enfrentados e Soluções**
 
 Durante o desenvolvimento, alguns desafios técnicos foram enfrentados e superados:
