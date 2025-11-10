@@ -100,10 +100,6 @@ Durante o desenvolvimento do **FINTECH**, foram adquiridos diversos aprendizados
 * O valor da **colaboração entre colegas** e a importância de comunicar problemas técnicos de forma clara.
 
 ## 🖼️ **Interface do Sistema (Prints das Telas)**
-
-> *(Adicione aqui suas imagens depois de fazer os prints!)*
-> Recomendo colocar as imagens na pasta `/public/images` e usar o caminho relativo, por exemplo:
-
 ---
 ### 🔹 Tela de Login
 
